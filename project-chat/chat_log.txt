@@ -1,0 +1,557 @@
+Chat with Nia and Bhawana
+You: help
+Bhawana: 
+Here are some topics you can ask me about:
+- Coffee bar timings
+- Library hours
+- Admissions
+- Sports facilities
+- Exam schedules
+Type 'bye', 'exit', or 'quit' to end the chat.
+            
+You: coffee
+Bhawana: The campus coffee bar is open from 8 AM to 8 PM daily.
+Bhawana: You might also want to ask about: 'menu', 'location'
+You: menu
+Bhawana: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+You: location
+Bhawana: The coffee bar is located in the student center, near the main entrance.
+You: exam
+Bhawana: Exam schedules will be announced one month before the exams start.
+Bhawana: You might also want to ask about: 'results', 'location', 'preparation'
+You: location
+Bhawana: Exam halls are assigned based on your department. Check the notice board for details.
+You: preparation
+Bhawana: The library has great resources for exam preparation, including past papers.
+You: bye
+Bhawana: Goodbye, Nia! Thank you for visiting the University of Poppleton.
+
+Chat with Nikita and Yuri
+You: help
+Yuri: 
+Here are some topics you can ask me about:
+- Coffee bar timings
+- Library hours
+- Admissions
+- Sports facilities
+- Exam schedules
+Type 'bye', 'exit', or 'quit' to end the chat.
+            
+You: coffee
+Yuri: The campus coffee bar is open from 8 AM to 8 PM daily.
+Yuri: You might also want to ask about: 'menu', 'location'
+You: menu
+Yuri: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+You: location
+Yuri: The coffee bar is located in the student center, near the main entrance.
+You: bye
+Yuri: Goodbye, Nikita! Thank you for visiting the University of Poppleton.
+
+Chat with Hritika and Anmol
+You: help
+Anmol: 
+Here are some topics you can ask me about:
+- Coffee bar timings
+- Library hours
+- Admissions
+- Sports facilities
+- Exam schedules
+Type 'bye', 'exit', or 'quit' to end the chat.
+            
+You: coffee
+Anmol: The campus coffee bar is open from 8 AM to 8 PM daily.
+Anmol: You might also want to ask about: 'menu', 'location'
+You: menu
+Anmol: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+You: location
+Anmol: The coffee bar is located in the student center, near the main entrance.
+You: exam
+Anmol: Exam schedules will be announced one month before the exams start.
+Anmol: You might also want to ask about: 'results', 'location', 'preparation'
+You: results
+Anmol: Results are usually published within 2 weeks after the exams conclude.
+You: bye
+Anmol: Goodbye, Hritika! Thank you for visiting the University of Poppleton.
+
+Chat with & "C:/Program Files/Python313/python.exe" c:/Users/kesha.KESHAB_SHRESTHA/Desktop/chatbox/chatbox.py and Ram
+You: help
+Ram: 
+Here are some topics you can ask me about:
+- Coffee bar timings
+- Library hours
+- Admissions
+- Sports facilities
+- Exam schedules
+Type 'bye', 'exit', or 'quit' to end the chat.
+            
+You: coffee
+Ram: The campus coffee bar is open from 8 AM to 8 PM daily.
+Ram: You might also want to ask about: 'menu', 'location'
+You: menu
+Ram: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+You: location
+Ram: The coffee bar is located in the student center, near the main entrance.
+You: bye
+Ram: Goodbye, & "C:/Program Files/Python313/python.exe" c:/Users/kesha.KESHAB_SHRESTHA/Desktop/chatbox/chatbox.py! Thank you for visiting the University of Poppleton.
+
+Session started: 2025-01-16 18:55:50
+Chat with Bhawana and Shyam
+You: help
+Shyam: 
+Here are some topics you can ask me about:
+- Coffee bar timings
+- Library hours
+- Admissions
+- Sports facilities
+- Exam schedules
+Type 'bye', 'exit', or 'quit' to end the chat.
+            
+You: coffee
+Shyam: The campus coffee bar is open from 8 AM to 8 PM daily.
+Shyam: You might also want to ask about: 'menu', 'location'
+You: menu
+Shyam: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+You: space
+Shyam: I'm sorry, I didn't understand that. Can you ask another way?
+You: location
+Shyam: I'm sorry, I didn't understand that. Can you ask another way?
+You: coffee
+Shyam: The campus coffee bar is open from 8 AM to 8 PM daily.
+Shyam: You might also want to ask about: 'menu', 'location'
+You: bye
+Shyam: Goodbye, Bhawana! Thank you for visiting the University of Poppleton.
+
+Session started: 2025-01-16 18:56:28
+Chat with Keshab and Smriti
+You: coffee
+Smriti: The campus coffee bar is open from 8 AM to 8 PM daily.
+Smriti: You might also want to ask about: 'menu', 'location'
+You: menu
+Smriti: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+You: location
+Smriti: The coffee bar is located in the student center, near the main entrance.
+You: exit
+Smriti: Goodbye, Keshab! Thank you for visiting the University of Poppleton.
+
+Chat session started: 2025-01-16 19:07:09
+You: help
+Celina: Provided help topics.
+You: coffee
+Celina: The campus coffee bar is open from 8 AM to 8 PM daily.
+Celina: Suggested follow-ups: 'menu', 'location'
+You: menu
+Celina: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+You: library
+Celina: The library is open from 9 AM to 10 PM daily. It provides resources for all students.
+Celina: Suggested follow-ups: 'memberships', 'books', 'study rooms'
+You: books
+Celina: You can borrow up to 5 books at a time for a maximum of 2 weeks.
+You: bye
+Celina: Goodbye, Saugat!
+
+Chat session started: 2025-01-16 19:11:47
+You: help
+Smriti: Provided help topics.
+You: coffee
+Smriti: The campus coffee bar is open from 8 AM to 8 PM daily.
+Smriti: Suggested follow-ups: 'menu', 'location'
+You: admissions
+Smriti: Admissions are open. Please visit our website or the admissions office for more details.
+Smriti: Suggested follow-ups: 'requirements', 'deadline', 'fees'
+You: exam
+Smriti: Exam schedules will be announced one month before the exams start.
+Smriti: Suggested follow-ups: 'results', 'location', 'preparation'
+You: location
+Smriti: Exam halls are assigned based on your department. Check the notice board for details.
+You: net
+Smriti: Could not understand.
+You: bye
+Smriti: Goodbye, Teniah!
+
+Chat session started: 2025-01-16 19:15:36
+You: help
+Smriti: Provided help topics.
+You: coffee
+Smriti: Oops, I got disconnected!
+
+Chat session started: 2025-01-16 19:20:22
+Chat with Nia and Bhawana
+
+You: help
+
+Bhawana: 
+
+Here are some topics you can ask me about:
+
+- Coffee bar timings
+
+- Library hours
+
+- Admissions
+
+- Sports facilities
+
+- Exam schedules
+
+Type 'bye', 'exit', or 'quit' to end the chat.
+
+            
+
+You: coffee
+
+Bhawana: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Bhawana: You might also want to ask about: 'menu', 'location'
+
+You: menu
+
+Bhawana: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+
+You: location
+
+Bhawana: The coffee bar is located in the student center, near the main entrance.
+
+You: exam
+
+Bhawana: Exam schedules will be announced one month before the exams start.
+
+Bhawana: You might also want to ask about: 'results', 'location', 'preparation'
+
+You: location
+
+Bhawana: Exam halls are assigned based on your department. Check the notice board for details.
+
+You: preparation
+
+Bhawana: The library has great resources for exam preparation, including past papers.
+
+You: bye
+
+Bhawana: Goodbye, Nia! Thank you for visiting the University of Poppleton.
+
+
+
+Chat with Nikita and Yuri
+
+You: help
+
+Yuri: 
+
+Here are some topics you can ask me about:
+
+- Coffee bar timings
+
+- Library hours
+
+- Admissions
+
+- Sports facilities
+
+- Exam schedules
+
+Type 'bye', 'exit', or 'quit' to end the chat.
+
+            
+
+You: coffee
+
+Yuri: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Yuri: You might also want to ask about: 'menu', 'location'
+
+You: menu
+
+Yuri: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+
+You: location
+
+Yuri: The coffee bar is located in the student center, near the main entrance.
+
+You: bye
+
+Yuri: Goodbye, Nikita! Thank you for visiting the University of Poppleton.
+
+
+
+Chat with Hritika and Anmol
+
+You: help
+
+Anmol: 
+
+Here are some topics you can ask me about:
+
+- Coffee bar timings
+
+- Library hours
+
+- Admissions
+
+- Sports facilities
+
+- Exam schedules
+
+Type 'bye', 'exit', or 'quit' to end the chat.
+
+            
+
+You: coffee
+
+Anmol: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Anmol: You might also want to ask about: 'menu', 'location'
+
+You: menu
+
+Anmol: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+
+You: location
+
+Anmol: The coffee bar is located in the student center, near the main entrance.
+
+You: exam
+
+Anmol: Exam schedules will be announced one month before the exams start.
+
+Anmol: You might also want to ask about: 'results', 'location', 'preparation'
+
+You: results
+
+Anmol: Results are usually published within 2 weeks after the exams conclude.
+
+You: bye
+
+Anmol: Goodbye, Hritika! Thank you for visiting the University of Poppleton.
+
+
+
+Chat with & "C:/Program Files/Python313/python.exe" c:/Users/kesha.KESHAB_SHRESTHA/Desktop/chatbox/chatbox.py and Ram
+
+You: help
+
+Ram: 
+
+Here are some topics you can ask me about:
+
+- Coffee bar timings
+
+- Library hours
+
+- Admissions
+
+- Sports facilities
+
+- Exam schedules
+
+Type 'bye', 'exit', or 'quit' to end the chat.
+
+            
+
+You: coffee
+
+Ram: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Ram: You might also want to ask about: 'menu', 'location'
+
+You: menu
+
+Ram: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+
+You: location
+
+Ram: The coffee bar is located in the student center, near the main entrance.
+
+You: bye
+
+Ram: Goodbye, & "C:/Program Files/Python313/python.exe" c:/Users/kesha.KESHAB_SHRESTHA/Desktop/chatbox/chatbox.py! Thank you for visiting the University of Poppleton.
+
+
+
+Session started: 2025-01-16 18:55:50
+
+Chat with Bhawana and Shyam
+
+You: help
+
+Shyam: 
+
+Here are some topics you can ask me about:
+
+- Coffee bar timings
+
+- Library hours
+
+- Admissions
+
+- Sports facilities
+
+- Exam schedules
+
+Type 'bye', 'exit', or 'quit' to end the chat.
+
+            
+
+You: coffee
+
+Shyam: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Shyam: You might also want to ask about: 'menu', 'location'
+
+You: menu
+
+Shyam: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+
+You: space
+
+Shyam: I'm sorry, I didn't understand that. Can you ask another way?
+
+You: location
+
+Shyam: I'm sorry, I didn't understand that. Can you ask another way?
+
+You: coffee
+
+Shyam: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Shyam: You might also want to ask about: 'menu', 'location'
+
+You: bye
+
+Shyam: Goodbye, Bhawana! Thank you for visiting the University of Poppleton.
+
+
+
+Session started: 2025-01-16 18:56:28
+
+Chat with Keshab and Smriti
+
+You: coffee
+
+Smriti: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Smriti: You might also want to ask about: 'menu', 'location'
+
+You: menu
+
+Smriti: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+
+You: location
+
+Smriti: The coffee bar is located in the student center, near the main entrance.
+
+You: exit
+
+Smriti: Goodbye, Keshab! Thank you for visiting the University of Poppleton.
+
+
+
+Chat session started: 2025-01-16 19:07:09
+
+You: help
+
+Celina: Provided help topics.
+
+You: coffee
+
+Celina: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Celina: Suggested follow-ups: 'menu', 'location'
+
+You: menu
+
+Celina: The coffee bar offers lattes, cappuccinos, and a variety of pastries.
+
+You: library
+
+Celina: The library is open from 9 AM to 10 PM daily. It provides resources for all students.
+
+Celina: Suggested follow-ups: 'memberships', 'books', 'study rooms'
+
+You: books
+
+Celina: You can borrow up to 5 books at a time for a maximum of 2 weeks.
+
+You: bye
+
+Celina: Goodbye, Saugat!
+
+
+
+Chat session started: 2025-01-16 19:11:47
+
+You: help
+
+Smriti: Provided help topics.
+
+You: coffee
+
+Smriti: The campus coffee bar is open from 8 AM to 8 PM daily.
+
+Smriti: Suggested follow-ups: 'menu', 'location'
+
+You: admissions
+
+Smriti: Admissions are open. Please visit our website or the admissions office for more details.
+
+Smriti: Suggested follow-ups: 'requirements', 'deadline', 'fees'
+
+You: exam
+
+Smriti: Exam schedules will be announced one month before the exams start.
+
+Smriti: Suggested follow-ups: 'results', 'location', 'preparation'
+
+You: location
+
+Smriti: Exam halls are assigned based on your department. Check the notice board for details.
+
+You: net
+
+Smriti: Could not understand.
+
+You: bye
+
+Smriti: Goodbye, Teniah!
+
+
+
+Chat session started: 2025-01-16 19:15:36
+
+You: help
+
+Smriti: Provided help topics.
+
+You: coffee
+
+Smriti: Oops, I got disconnected!
+
+
+
+You: help
+None: Provided help topics.
+You: cofee
+None: Oops, I got disconnected!
+
+Chat session started: 2025-01-16 19:20:42
+You: coffee
+Smriti: Oops, I got disconnected!
+
+Chat session started: 2025-01-16 19:21:10
+You: help
+Yuri: Provided help topics.
+You: coffee
+Yuri: Oops, I got disconnected!
+
+Chat session started: 2025-01-16 19:25:40
+You: help
+Sneha: Provided help topics.
+You: exam
+Sneha: Exam schedules will be announced one month before the exams start.
+Sneha: Suggested follow-ups: 'results', 'location', 'preparation'
+You: results
+Sneha: Results are usually published within 2 weeks after the exams conclude.
+You: location
+Sneha: Exam halls are assigned based on your department. Check the notice board for details.
+You: bye
+Sneha: Oops, I got disconnected!
+

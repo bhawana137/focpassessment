@@ -1,0 +1,37 @@
+{
+    "coffee": {
+        "details": "The campus coffee bar is open from 8 AM to 8 PM daily.",
+        "follow_ups": [
+            {"key": "menu", "reply": "The coffee bar offers coffee, tea, and pastries."},
+            {"key": "location", "reply": "The coffee bar is located in the student center."}
+        ]
+    },
+    "library": {
+        "details": "The library is open from 9 AM to 10 PM daily.",
+        "follow_ups": [
+            {"key": "membership", "reply": "Library memberships are free for all students."},
+            {"key": "study rooms", "reply": "Study rooms can be booked online for group study."}
+        ]
+    },
+    "admissions": {
+        "details": "Admissions are open! Visit the admissions office or website for more details.",
+        "follow_ups": [
+            {"key": "requirements", "reply": "You need your transcript, ID, and a completed application form."},
+            {"key": "deadline", "reply": "The application deadline is December 31."}
+        ]
+    },
+    "sports": {
+        "details": "Our sports facilities include a gym, swimming pool, and basketball courts.",
+        "follow_ups": [
+            {"key": "membership", "reply": "Access to sports facilities requires a valid student ID."},
+            {"key": "schedule", "reply": "The gym schedule is available on the university website."}
+        ]
+    },
+    "exam": {
+        "details": "The exam schedule will be published on the university's website next week.",
+        "follow_ups": [
+            {"key": "locations", "reply": "Exam locations will be included in the schedule."},
+            {"key": "materials", "reply": "Make sure to bring your ID and required stationery for exams."}
+        ]
+    }
+}
