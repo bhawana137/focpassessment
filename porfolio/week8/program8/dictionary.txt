@@ -1,0 +1,8 @@
+hello
+world
+python
+is
+fun
+end
+of
+file
